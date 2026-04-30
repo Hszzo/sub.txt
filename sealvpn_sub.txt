@@ -1,4 +1,4 @@
-#profile-title: SealVPN | By Hszzo
+#profile-title: SealVPN (By Hse22e9w)
 #profile-update-interval: 1
 #profile-web-page-url: https://sealvpn-proxy.hse22e9w.workers.dev/
 #support-url: https://sealvpn-proxy.hse22e9w.workers.dev/
