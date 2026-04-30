@@ -3,7 +3,7 @@
 #profile-web-page-url: https://sealvpn-proxy.hse22e9w.workers.dev/
 #fallback-url: https://sealvpn-proxy.hse22e9w.workers.dev/
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-#announce: Не работает впн? Обнови подписку! (VPN By Hse22e9w)
+#announce: Не работает впн? Обнови подпискуу! (VPN By Hse22e9w)
 #manual-block: true
 #insecure: true
 
