@@ -1,9 +1,9 @@
 #profile-title: SealVPN
 #profile-update-interval: 1
 #profile-web-page-url: https://sealvpn-proxy.hse22e9w.workers.dev/
-#support-url: https://t.me/sealvpn_support
 #fallback-url: https://sealvpn-proxy.hse22e9w.workers.dev/
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
+#announce: Не работает впн? Обнови подписку! (VPN By Hse22e9w)
 
 vless://7a2d5d01-784a-4b54-97d2-e73b4e30ddc1@178.248.238.85:8443?encryption=none&security=reality&type=tcp&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sni=ads.x5.ru&sid=43dcff53849b81e6&fp=chrome#🇳🇱 SealVPN | AUTO?AUTO fallback
 vless://7a2d5d01-784a-4b54-97d2-e73b4e30ddc1@178.248.238.85:8443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sni=ads.x5.ru&sid=43dcff53849b81e6&fp=chrome#🇳🇱 SealVPN | ALT 1?NL Vision
