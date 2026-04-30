@@ -3,10 +3,9 @@
 #profile-web-page-url: https://sealvpn-proxy.hse22e9w.workers.dev/
 #fallback-url: https://sealvpn-proxy.hse22e9w.workers.dev/
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-#announce: Не работает впн? Обнови подписку! (VPN By hse22e9w)
+#announce: Не работает впн? Обнови подписку! (VPN By Hse22e9w)
 #manual-block: true
 #insecure: true
-
 
 vless://7a2d5d01-784a-4b54-97d2-e73b4e30ddc1@178.248.238.85:8443?encryption=none&security=reality&type=tcp&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sni=ads.x5.ru&sid=43dcff53849b81e6&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20SealVPN%20%7C%20AUTO%3FAUTO%20fallback
 vless://7a2d5d01-784a-4b54-97d2-e73b4e30ddc1@178.248.238.85:8443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sni=ads.x5.ru&sid=43dcff53849b81e6&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20SealVPN%20%7C%20ALT%201%3FNL%20Vision
